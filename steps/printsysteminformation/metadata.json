@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "8674e4ff-521e-4b0d-b7ae-e862d8000170", 
+    "interpreter": 1, 
+    "key": "printsysteminformation", 
+    "name": "Print system information", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

@@ -1,0 +1,15 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "7f5715d5-9615-4154-885b-e46bfa30968b", 
+    "isBlueprint": true, 
+    "key": "ubuntuupgradepackages", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "applyallavailableupdates"
+        }
+    ], 
+    "name": "Ubuntu Upgrade Packages", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "bca77855-07b5-47f5-9e94-06dae6e57bac", 
+    "interpreter": 1, 
+    "key": "displayallipaddressesofthehost", 
+    "name": "Display all IP addresses of the host", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

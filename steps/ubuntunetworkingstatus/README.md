@@ -1,0 +1,1 @@
+Retrieve a status or information for device networking.

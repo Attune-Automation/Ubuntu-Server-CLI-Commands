@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "1386d0b0-5e20-4cd6-92cc-252c14933ea8", 
+    "interpreter": 1, 
+    "key": "getrootdiskusage", 
+    "name": "Get root disk usage", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

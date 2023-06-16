@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "c6f30919-8b7e-4871-adea-c22928166240", 
+    "interpreter": 1, 
+    "key": "applyallavailableupdates", 
+    "name": "Apply all available updates", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

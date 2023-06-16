@@ -1,0 +1,1 @@
+Show routing, network devices, interfaces, and tunnels.

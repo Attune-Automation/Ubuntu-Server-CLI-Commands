@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "49e80af7-b827-4735-a627-78a40059f404", 
+    "interpreter": 1, 
+    "key": "installunattendedupgrades", 
+    "name": "Install unattended-upgrades", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

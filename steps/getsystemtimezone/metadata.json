@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "85902c4d-f3b5-461a-9b9d-c3570e52fa43", 
+    "interpreter": 1, 
+    "key": "getsystemtimezone", 
+    "name": "Get system timezone", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

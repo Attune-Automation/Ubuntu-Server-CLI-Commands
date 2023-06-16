@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "69ba7ebd-9db4-47df-8906-dab8819253cc", 
+    "interpreter": 1, 
+    "key": "getallfailedservices", 
+    "name": "Get all failed services", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

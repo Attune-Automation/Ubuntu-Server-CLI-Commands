@@ -1,0 +1,39 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "fd2ae005-7ee6-4e7a-9868-eec7662f4620", 
+    "isBlueprint": true, 
+    "key": "ubuntusystemstatus", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "printsysteminformation"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "getrootdiskusage"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "getmemoryusage"
+        }, 
+        {
+            "order": 150, 
+            "stepKey": "getsystemtimezone"
+        }, 
+        {
+            "order": 200, 
+            "stepKey": "getallrunningservices"
+        }, 
+        {
+            "order": 250, 
+            "stepKey": "getallfailedservices"
+        }, 
+        {
+            "order": 300, 
+            "stepKey": "getlistofrecentlogins"
+        }
+    ], 
+    "name": "Ubuntu System Status", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

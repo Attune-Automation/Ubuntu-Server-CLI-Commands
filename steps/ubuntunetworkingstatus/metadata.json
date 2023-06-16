@@ -1,0 +1,23 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "c524b767-09b9-4c6a-a7e6-68761e45610c", 
+    "isBlueprint": true, 
+    "key": "ubuntunetworkingstatus", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "gettheipaddressofallinterfaces"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "displayallipaddressesofthehost"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "showroutes"
+        }
+    ], 
+    "name": "Ubuntu Networking Status", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

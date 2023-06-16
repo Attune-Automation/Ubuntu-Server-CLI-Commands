@@ -1,0 +1,2 @@
+Hostname is used to display the system's DNS name, and to display or set its
+hostname or NIS domain name.

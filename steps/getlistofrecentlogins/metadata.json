@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "cf332eb2-9d2c-46b0-80c3-480f1a221d4b", 
+    "interpreter": 1, 
+    "key": "getlistofrecentlogins", 
+    "name": "Get list of recent logins", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "605f37f1-799b-4c49-a39c-1affd74c2c58", 
+    "interpreter": 1, 
+    "key": "showroutes", 
+    "name": "Show routes", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}
